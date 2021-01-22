@@ -1,0 +1,31 @@
+{
+    "token":"NzcwNjIwNTQwNDAxNzQ1OTQw.X5gOTg._B2j2mjzHNTTGHvagpHJ8WjrgBw",
+    
+    "serverID":"421694598889472010",
+    
+    "adminID":"532239504443179061",
+    
+    "prefix":"!",
+    
+    "friendRole":"754354959880814672",
+    "adminRole":"582546760434450432",
+    "botRole":"754356211562053633",
+
+    "welcomeChannel":"754359359550521384",
+    "rulesChannel":"754361545152004147",
+    "chatChannel":"576800759950082069",
+    "bonPlansChannel":"754410198713499689",
+    
+    "voiceChannel1":"463299724229869589",
+    "voiceChannel2":"754352850066341958",
+    "voiceChannel3":"754352897906704525",
+    "voiceChannelDuo1":"754758891685806182",
+    "voiceChannelDuo2":"754758933218066493",
+    "afkChannel":"546744317113532437",
+    "botCommandsChannel":"751105550825291896",
+
+    "devBotChannel":"674267020577079296",
+    "adminChannel":"576352146715443210",
+    "adminVoiceChannel":"754654449640931339",
+    
+    "rulesMessage":"770672379428864021"}
